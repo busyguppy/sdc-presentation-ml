@@ -1,0 +1,34 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+mp3-tagger = "*"
+musicbrainzngs = "*"
+tinytag = "*"
+pandas = "*"
+numpy = "*"
+sklearn = "*"
+sqlalchemy = "*"
+mutagen = "*"
+requests = "*"
+beautifulsoup4 = "*"
+keras = "*"
+docutils = "*"
+pygments = "*"
+pypiwin32 = "*"
+kivy-deps-sdl2 = "==0.1.*"
+kivy-deps-glew = "==0.1.*"
+kivy-deps-gstreamer = "==0.1.*"
+parsel = "*"
+pyqt5 = "*"
+qt5-webengine = "*"
+pyqtwebengine = "*"
+ipykernel = "*"
+seaborn = "*"
+
+[requires]
+python_version = "3.7"
