@@ -4,10 +4,13 @@
 ## 安裝
 1. 安裝Python 3.7（Tensorflow只支援到這版本） 
 2. git clone https://github.com/busyguppy/SDC-presentation-ML.git
-2. cd SDC-presentation-ML
-3. python -m pip install --upgrade pip
-4. pip install pipenv --upgrade
-5. pipenv install -r requirements.txt
+3. cd SDC-presentation-ML
+4. python -m pip install --upgrade pip
+5. pip install pipenv --upgrade
+6. pipenv --python 3.7
+7. pipenv shell
+8. pip install -r requirements.txt
+9. Have fun :)
 
 ## 執行
 ``` bash
