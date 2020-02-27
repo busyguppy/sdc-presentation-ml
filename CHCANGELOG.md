@@ -1,5 +1,9 @@
 # Changelog
 
+## [0.12.0] - 2019-2-27
+## Added
+* 新增安裝指引
+
 ## [0.11.2] - 2019-2-19
 ## Added
 * preprocessing: chi2 feature independence test.
