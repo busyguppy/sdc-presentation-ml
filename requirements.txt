@@ -71,7 +71,7 @@ parsel==1.5.2
 parso==0.6.0
 pathspec==0.7.0
 pickleshare==0.7.5
-pipenv==2018.11.26
+pipenv==2022.1.8
 prometheus-client==0.7.1
 prompt-toolkit==3.0.3
 protobuf==3.11.2
