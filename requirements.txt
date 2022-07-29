@@ -54,7 +54,7 @@ lxml==4.4.2
 Markdown==3.1.1
 MarkupSafe==1.1.1
 matplotlib==3.1.2
-mistune==0.8.4
+mistune==2.0.3
 mp3-tagger==1.0
 musicbrainzngs==0.7.1
 mutagen==1.43.0
